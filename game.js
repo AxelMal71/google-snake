@@ -1524,7 +1524,7 @@ try {
             return s_Eda;
         },
         s_Fda = function (a) {
-            (s_rc("xjsc") || document.body).appendChild(a);
+            (s_rc("google-snake") || document.body).appendChild(a);
         },
         s_Gda = function (a, b, c, d, e, f) {
             e = void 0 === e ? 25 : e;
