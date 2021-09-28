@@ -3712,4 +3712,11 @@ try{
     s_b();
     
     }catch(e){_DumpException(e)}
-    // Google Inc.
+
+//    
+// Made by Google Inc.
+// For 3kh0.github.io/google-snake
+// Rehosted under the MIT licence.
+//
+// Please contact 3kh0 for any questions.
+//
